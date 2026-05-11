@@ -18,7 +18,7 @@ This project trains a TurtleBot3 Burger robot to navigate from a fixed start pos
 Terminal 1:
 
 ```bash
-cd cnn_nav_ppo_stage4
+cd ros-turtlebot3-ppo-navigation
 source /opt/ros/humble/setup.bash
 source ~/turtlebot3_ws/install/setup.bash
 bash launch_stage4_static.sh
@@ -27,7 +27,7 @@ bash launch_stage4_static.sh
 Terminal 2:
 
 ```bash
-cd cnn_nav_ppo_stage4
+cd ros-turtlebot3-ppo-navigation
 source /opt/ros/humble/setup.bash
 source ~/turtlebot3_ws/install/setup.bash
 export TURTLEBOT3_MODEL=burger
