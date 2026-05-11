@@ -50,7 +50,7 @@ The environment reward contains a small step penalty, progress reward toward the
 
 项目名称（Project Name）：ros-turtlebot3-ppo-navigation
 
-项目作者（Author）：Tao Yang
+项目作者（Author）：阳涛（Yang Tao）
 
 作者单位（Affiliation）：暨南大学网络空间学院
 
