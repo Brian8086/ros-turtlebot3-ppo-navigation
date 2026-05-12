@@ -44,13 +44,3 @@ The policy observes a compact LiDAR-goal representation with 96 LiDAR bins and g
 
 The environment reward contains a small step penalty, progress reward toward the goal, collision penalty, and success reward when the robot reaches the target.
 
-## 项目声明 Project Statement
-
-本项目的作者及单位信息：
-
-项目名称（Project Name）：ros-turtlebot3-ppo-navigation
-
-项目作者（Author）：Yang Tao
-
-作者单位（Affiliation）：暨南大学网络空间学院
-
